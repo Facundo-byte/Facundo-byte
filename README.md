@@ -37,7 +37,7 @@
   - Javascript
   - C
   - Microsoft SQL Server
-  - Git
+  - React
 
 </div>
 
